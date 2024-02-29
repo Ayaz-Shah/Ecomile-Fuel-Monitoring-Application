@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1036482615560",
+    "firebase_url": "https://ecomile-monitor-default-rtdb.firebaseio.com",
+    "project_id": "ecomile-monitor",
+    "storage_bucket": "ecomile-monitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036482615560:android:46d9e7bd835cf77b26b4bd",
+        "android_client_info": {
+          "package_name": "com.example.ecomile_monitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvjN-oEaUEoGscoGbgeZ6dO0fEzm0EVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

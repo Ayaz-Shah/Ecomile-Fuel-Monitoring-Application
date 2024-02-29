@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBW9yTZQ8S9R1KPUj7jJNcZ57094HzkjUM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036482615560</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecomileMonitor</string>
+	<key>PROJECT_ID</key>
+	<string>ecomile-monitor</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecomile-monitor.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036482615560:ios:0ad56e62a68043c326b4bd</string>
+	<key>DATABASE_URL</key>
+	<string>https://ecomile-monitor-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
